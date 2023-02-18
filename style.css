@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+canvas
+{
+    padding:20px;
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px pink;
+}
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+.play_button
+{
+  width:130px;
+  font-size:25px;
+}
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+}
